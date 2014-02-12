@@ -1,0 +1,21 @@
+# system/bin
+bin/msp430
+
+# system/etc
+etc/mspfirmware/mspfirmware.bin
+etc/mspfirmware/version.txt
+
+# system/usr
+usr/keylayout/cy8c201xx.kl
+
+# system/lib/hw
+lib/hw/gps.spyder.so
+lib/hw/sensorhub.spyder.so
+lib/hw/sensors.spyder.so
+lib/libsensorhub_jni.so
+
+# system/lib
+lib/libnbgm_9.0.1.so
+
+# system/etc/omapcam/module2
+etc/omapcam/module2/cid1044_mt9m114_sensor_config_dcc.bin
