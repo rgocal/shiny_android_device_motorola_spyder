@@ -1,4 +1,7 @@
 Device configuration for the VZW Motorola Droid Razr (Spyder)
 ===============================
 
-Copyright 2013 - The CyanogenMod Project
+AOSP
+Shiny Rom unofficial port
+
+(Experimental until AOSP builds are perfect, will add mk file to spyder when changes are made)
